@@ -68,4 +68,4 @@ Fonts:       System UI / Segoe UI
 No Backend:  Client-side storage (ready for API integration)
 
 
-contact us for full version or private projects (professorshami435@gmail.com)
+contact us for full version or private projects (professorshami435@gmail.com) 
