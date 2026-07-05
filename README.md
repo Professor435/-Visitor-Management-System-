@@ -13,7 +13,7 @@
 ![SmartVisitor Pro Dashboard](https://via.placeholder.com/1200x600/0f172a/6366f1?text=SmartVisitor+Pro+Dashboard+Preview)
 
 ---
-
+ 
 ## ✨ Features
 
 ### 🔐 Core Visitor Management
