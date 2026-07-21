@@ -7,7 +7,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)]()
 [![Demo](https://img.shields.io/badge/Live-Demo-blue)](https://your-demo-link.com)
-
+ 
 &gt; 🚀 A modern, fully-functional visitor management solution with real-time tracking, emergency evacuation features, and stunning glassmorphism UI design.
 
 ![SmartVisitor Pro Dashboard](https://via.placeholder.com/1200x600/0f172a/6366f1?text=SmartVisitor+Pro+Dashboard+Preview)
